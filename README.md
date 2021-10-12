@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gSulpizio
 - 👀 I’m interested in software development, data science and coding in general.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning machine learning and react.
 - 📫 How to reach me: giustino.i.sulpizio@gmail.com
 
 <!---
